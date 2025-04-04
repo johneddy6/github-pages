@@ -1,4 +1,32 @@
-<header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Morgan Horse Sales</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Morgan Horse Sales</h1>
+        <p>Find Your Perfect Morgan Horse</p>
+    </header>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>We specialize in selling high-quality Morgan horses to buyers looking for top-tier equine companions.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: <a href="mailto:lusmorganandrew@gmail.com">lusmorganandrew@gmail.com</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Morgan Horse Sales</p>
+    </footer>
+</body>
+</html>
 
 <!--
   <<< Author notes: Course header >>>
